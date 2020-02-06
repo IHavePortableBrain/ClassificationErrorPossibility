@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassificationErrorPossibility", "ClassificationErrorPossibility\ClassificationErrorPossibility.csproj", "{A274AF15-49E7-4804-B42F-9314564D049C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A274AF15-49E7-4804-B42F-9314564D049C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A274AF15-49E7-4804-B42F-9314564D049C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A274AF15-49E7-4804-B42F-9314564D049C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A274AF15-49E7-4804-B42F-9314564D049C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D33F84-F201-4722-A97F-E084E5AFA69B}
+	EndGlobalSection
+EndGlobal
